@@ -7,7 +7,7 @@ ____________
 # Autores
            
 - **Alondra Valery Condori Zavaleta**
-- ****
+- **Diego Antonio Ramos Hinostroza**
 - ****
 - ****
 - ****
