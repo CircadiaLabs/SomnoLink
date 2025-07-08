@@ -9,7 +9,7 @@ ____________
 - **Alondra Valery Condori Zavaleta**
 - **Diego Antonio Ramos Hinostroza**
 - **Matias Ricardo Granados Alvarado**
-- ****
+- **Luis Eduardo Rios Cespedes**
 - ****
 - ****
 - ****
